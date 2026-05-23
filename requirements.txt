@@ -1,0 +1,10 @@
+langchain
+wikipedia
+langchain-community
+langchain-google-genai
+langchain-community
+pypdf
+python-dotenv
+python-dotenv
+pydantic
+rich
